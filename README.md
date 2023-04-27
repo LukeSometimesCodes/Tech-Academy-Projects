@@ -1,2 +1,2 @@
 # Tech-Academy-Projects
-This repository is for Tech Academy projects.
+Some smaller Tech Academy projects I worked on
